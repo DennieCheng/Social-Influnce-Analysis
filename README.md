@@ -1,11 +1,10 @@
 # Social-Influnce-Analysis
 
-The goal of this analysis is to analyze the data for potential insight to inform a “free-to-fee” strategy for High Note.
-(High Note is a music streaming company --- similar to Last.fm, Spotify or Pandora --- that uses a freemium business model - divides user populations into groups that use the service for free and groups that pay a fee for additional features.)
+The goal of this analysis is to generate insights that inform a “free-to-fee” conversion strategy for High Note, a music streaming company (similar to Last.fm, Spotify, or Pandora) that operates on a freemium model, offering both free and premium subscription tiers.
 
-This analysis includes 5 parts: initiative statistical analysis, visualization, subscriber friend influence (Propensity Score Matching), regression, and the “free to fee” strategies for High Note.
+The analysis consists of five components: initial statistical analysis, data visualization, subscriber peer influence (using Propensity Score Matching), regression modeling, and strategy development for improving free-to-fee conversion.
 
-This analysis shows that peer influence and user engagement can affect users’ decisions to pay for a premium subscription. 
+The results indicate that peer influence and user engagement play significant roles in driving users’ decisions to upgrade to a premium subscription.
 
 # Package
 dplyr; pastecs; ggplot2; MatchIt; car; corrgram; MASS
