@@ -3,7 +3,7 @@
 The goal of this analysis is to analyze the data for potential insight to inform a “free-to-fee” strategy for High Note.
 (High Note is a music streaming company --- similar to Last.fm, Spotify or Pandora --- that uses a freemium business model - divides user populations into groups that use the service for free and groups that pay a fee for additional features.)
 
-This analysis includes 5 parts: initiative statistics analysis, visualization, subscriber friend influence (Propensity Score Matching), regression, and the “free to fee” strategies for High Note.
+This analysis includes 5 parts: initiative statistical analysis, visualization, subscriber friend influence (Propensity Score Matching), regression, and the “free to fee” strategies for High Note.
 
 This analysis shows that peer influence and user engagement can affect users’ decisions to pay for a premium subscription. 
 
